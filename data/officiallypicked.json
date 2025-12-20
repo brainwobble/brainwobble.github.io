@@ -63,52 +63,55 @@
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "⭐Console Mods",
+    "url": "https://consolemods.org/wiki/Main_Page",
+    "description": "self explanitory",
+    "tags": ["games","modding"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "game tech wiki",
+    "url": "https://emulation.gametechwiki.com/index.php/Main_Page",
+    "description": " really good resource for emulation
+if you want to emulate something and dont know what to do just look on this site and itll help",
+    "tags": ["emulation","games"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "Sonic Music??",
+    "url": "https://sonichq.net/music/",
+    "description": " for sonic music because sega personally removed all the sonic songs from that site",
+    "tags": ["sega","music","sonic"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "Khinsider downloads",
+    "url": "https://downloads.khinsider.com/",
+    "description": "for downloading video game music in lossless or mp3",
+    "tags": ["music","downloads","mp3"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "R-roms github",
+    "url": "https://r-roms.github.io/",
+    "description": "good place to find roms",
+    "tags": ["roms","roms","roms"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "taodung",
+    "url": "https://taodung.com/",
+    "description": "switch roms",
+    "tags": ["switch","roms"],
     "verified": true
   },
   {
-    "name": "",
-    "url": "",
-    "description": "",
-    "tags": [],
+    "name": "Scloudx",
+    "url": "https://scloudx.lol/",
+    "description": "use this to download movies and tv show episodes
+it does work and they are in high quality
+well most are it depends on the download you pick",
+    "tags": ["movies","tv", "downloads"],
     "verified": true
   },
   {
