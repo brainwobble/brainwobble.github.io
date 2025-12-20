@@ -72,8 +72,7 @@
   {
     "name": "game tech wiki",
     "url": "https://emulation.gametechwiki.com/index.php/Main_Page",
-    "description": " really good resource for emulation
-if you want to emulate something and dont know what to do just look on this site and itll help",
+    "description": "really good resource for emulation if you want to emulate something and dont know what to do just look on this site and itll help",
     "tags": ["emulation","games"],
     "verified": true
   },
@@ -108,9 +107,7 @@ if you want to emulate something and dont know what to do just look on this site
   {
     "name": "Scloudx",
     "url": "https://scloudx.lol/",
-    "description": "use this to download movies and tv show episodes
-it does work and they are in high quality
-well most are it depends on the download you pick",
+    "description": "use this to download movies and tv show episodes it does work and they are in high quality well most are it depends on the download you pick",
     "tags": ["movies","tv", "downloads"],
     "verified": true
   },
