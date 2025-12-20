@@ -33,10 +33,12 @@ A service must be:
   "name": "Example Tool",
   "url": "https://example.com",
   "description": "Short description.",
-  "tags": ["productivity"],
-  "verified": true
+  "tags": ["productivity", "gaming"],
+  "verified": 
 }
-
+```
 🔒 Verification
 
 Entries marked "verified": true have been manually reviewed for safety, privacy, and legitimacy.
+
+[join our discord!](https://discord.gg/E5WFgfeVxK)
