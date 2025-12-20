@@ -24,7 +24,7 @@ A service must be:
 
     Check for duplicates
 
-    Add your entry to the correct category file
+    Add your entry to the correct category file (data/contributedsites.json)
 
     Use this format:
 
