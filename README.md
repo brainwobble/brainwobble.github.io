@@ -36,7 +36,7 @@ A service must be:
   "tags": ["productivity"],
   "verified": true
 }
-```
+
 🔒 Verification
 
 Entries marked "verified": true have been manually reviewed for safety, privacy, and legitimacy.
