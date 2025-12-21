@@ -43,4 +43,15 @@ A service must be:
 
 Entries marked "verified": true have been manually reviewed for safety, privacy, and legitimacy.
 
+WHAT THE EMOJIS MEAN
+
+⭐ Good Resource
+❓ Decent Resource
+⭐⭐⭐ Best Resource (for its category)
+✅ Trusted but not as good as others
+
+
+
+
+
 [join our discord!](https://discord.gg/E5WFgfeVxK)
