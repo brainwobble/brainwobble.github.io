@@ -1,4 +1,11 @@
 [
+    {
+    "name": "⭐⭐⭐FMHY",
+    "url": "https://fmhy.net/",
+    "description": "The best place to find free anything! Inspired this site completely.",
+    "tags": ["awesome tier"],
+    "verified": true
+  },
   {
     "name": "⭐FitGirl Repacks",
     "url": "https://fitgirl-repacks.site/",
@@ -11,6 +18,20 @@
     "url": "https://cineby.gd/",
     "description": "Free streaming service.",
     "tags": ["tv", "movies", "streaming"],
+    "verified": true
+  },
+  {
+    "name": "⭐hacks.guide",
+    "url": "https://hacks.guide/",
+    "description": "Guides for hacking Nintendo consoles and PS Vita that are activley updated if something changes.",
+    "tags": ["homebrewing", "nintendo", "PS"],
+    "verified": true
+  },
+  {
+    "name": "⭐Console Mods",
+    "url": "https://consolemods.org/wiki/Main_Page",
+    "description": "Self explanitory.",
+    "tags": ["games","modding"],
     "verified": true
   },
   {
@@ -56,20 +77,6 @@
     "verified": true
   },
   {
-    "name": "⭐hacks.guide",
-    "url": "https://hacks.guide/",
-    "description": "Guides for hacking Nintendo consoles and PS Vita that are activley updated if something changes.",
-    "tags": ["homebrewing", "nintendo", "PS"],
-    "verified": true
-  },
-  {
-    "name": "⭐Console Mods",
-    "url": "https://consolemods.org/wiki/Main_Page",
-    "description": "Self explanitory.",
-    "tags": ["games","modding"],
-    "verified": true
-  },
-  {
     "name": "game tech wiki",
     "url": "https://emulation.gametechwiki.com/index.php/Main_Page",
     "description": "Amazing resource for emulation, if you need help with anything emulation related, just look on this site and it'll help.",
@@ -112,72 +119,51 @@
     "verified": true
   },
   {
-    "name": "❓vimms lair",
-    "url": "https://vimm.net/emulate",
-    "description": "emulate",
+    "name": "Vimm's Lair",
+    "url": "https://vimm.net",
+    "description": "ROMs for multiple consoles, ROM hacking, emulator links, and game manual archive.",
     "tags": ["notags"],
     "verified": true
   },
   {
     "name": "Myrient Erista",
     "url": "https://myrient.erista.me/",
-    "description": "Old games for every console or device",
+    "description": "Huge archive of games for every device, leaks, & more.",
     "tags": [],
     "verified": true
   },
   {
     "name": "kemono ",
     "url": "https://kemono.cr/",
-    "description": "patreon stuff (mostly porn)",
-    "tags": ["porn","patreon","porn"],
-    "verified": true
-  },
-  {
-    "name": "Coomer",
-    "url": "https://coomer.st",
-    "description": "OF leaks",
-    "tags": ["wierdo"],
+    "description": "Patreon, Pixiv Fanbox, Discord, Fantina, Afdian, Boosty, Gumroad, SubscribeStar, and DLsite archive.",
+    "tags": ["patreon"],
     "verified": true
   },
 {
-    "name": "pstream",
+    "name": "P-Stream",
     "url": "https://pstream.mov/",
-    "description": "solid streaming service",
+    "description": "TV & movie streaming.",
     "tags": ["streaming","tv","movies"],
     "verified": true
   },
   {
-    "name": "❓Nepu",
-    "url": "https://nepu.to/discovery",
-    "description": "streaming service?",
-    "tags": ["idk"],
-    "verified": true
-  },
-  {
-    "name": "hianime",
+    "name": "h!anime",
     "url": "https://hianime.to/",
-    "description": "anime streaming service",
+    "description": "Anime only streaming service.",
     "tags": ["anime","tv"],
-    "verified": true
-  },
-  {
-    "name": "⭐⭐⭐FMHY",
-    "url": "https://fmhy.net/",
-    "description": "THE BEST PLACE TO FIND FREE SHIT",
-    "tags": ["awesome tier"],
     "verified": true
   },
   {
     "name": "steamrip",
     "url": "https://steamrip.com/",
-    "description": "basic steam site",
-    "tags": [],
+    "description": "Free, pre-installed Steam games.",
+    "tags": ["steam"],
     "verified": true
   },
   {
-    "name": "online fix",
+    "name": "Online-Fix",
     "url": "https://onlinefix.me",
-    "description": "Good steam site for online/multiplayer games",
+    "description": "Good piracy site for online/multiplayer games.",
     "tags": ["multiplayer","steam","gaming"],
     "verified": true
   },
