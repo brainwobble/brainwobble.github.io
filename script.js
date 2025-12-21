@@ -11,7 +11,9 @@ async function loadServices() {
     const contributedRes = await fetch("data/contributedsites.json");
 
     officialServices = await officialRes.json();
-    contributedServices = await contributedRes.json();
+
+    // ✅ Only include verified contributed services
+    contributedServices = (await contributedRes.json()).filter(s => s.verified === true);
 
     combinedServices = [
         ...officialServices.map(s => ({ ...s, type: "official" })),
@@ -24,11 +26,9 @@ async function loadServices() {
 function displayServices(services) {
     container.innerHTML = "";
 
-    // Split filtered results into two groups
     const official = services.filter(s => s.type === "official");
     const contributed = services.filter(s => s.type === "contributed");
 
-    // Render official picks
     if (official.length > 0) {
         container.innerHTML += `
             <h2 class="divider">Officially Picked</h2>
@@ -36,7 +36,6 @@ function displayServices(services) {
         official.forEach(service => container.appendChild(createCard(service)));
     }
 
-    // Render contributed picks
     if (contributed.length > 0) {
         container.innerHTML += `
             <h2 class="divider">Community Contributed</h2>
@@ -49,8 +48,13 @@ function createCard(service) {
     const card = document.createElement("div");
     card.className = "card";
 
+    // ✅ Add verified badge if present
+    const verifiedBadge = service.verified
+        ? `<span class="verified-badge">Verified</span>`
+        : "";
+
     card.innerHTML = `
-        <h3>${service.name}</h3>
+        <h3>${service.name} ${verifiedBadge}</h3>
         <p>${service.description}</p>
         <p><a href="${service.url}" target="_blank">Visit Website</a></p>
         <div>${service.tags.map(tag => `<span class="tag">${tag}</span>`).join("")}</div>
@@ -71,6 +75,9 @@ searchInput.addEventListener("input", () => {
 
     displayServices(filtered);
 });
+
+// Start
+loadServices();
 
 // Start
 loadServices();
