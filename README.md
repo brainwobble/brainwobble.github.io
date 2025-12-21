@@ -43,6 +43,12 @@ A service must be:
 
 Entries marked "verified": true have been manually reviewed for safety, privacy, and legitimacy.
 
+If you need more help on how to even make pull request or how to check your json, refer to our wiki [Contributing Guide](https://github.com/brainwobble/brainwobble.github.io/wiki/Contributor-Guide) [JSON Schema](https://github.com/brainwobble/brainwobble.github.io/wiki/JSON-Schema)
+
+
+
+
+
 WHAT THE EMOJIS MEAN
 
 ⭐ Good Resource
