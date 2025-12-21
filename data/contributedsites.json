@@ -4,5 +4,6 @@
     "url": "https://example.com",
     "description": "Placeholder entry",
     "tags": []
+   "verified" : true
   }
 ]
