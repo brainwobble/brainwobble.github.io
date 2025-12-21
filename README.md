@@ -54,7 +54,7 @@ WHAT THE EMOJIS MEAN
 ⭐ Good Resource
 ❓ Decent Resource
 ⭐⭐⭐ Best Resource (for its category)
-✅ Trusted but not as good as others
+✅ A verified Resource 
 
 
 
