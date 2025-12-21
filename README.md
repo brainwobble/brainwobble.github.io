@@ -54,4 +54,4 @@ WHAT THE EMOJIS MEAN
 
 
 
-[join our discord!](https://discord.gg/E5WFgfeVxK)
+[join our discord!](https://discord.gg/E5WFgfeVxK) [our sources](https://brainwobble.github.io/sources.html)
