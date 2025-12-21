@@ -50,7 +50,7 @@ function createCard(service) {
 
     // ✅ Add verified badge if present
     const verifiedBadge = service.verified
-        ? `<span class="verified-badge">-Verified ✅</span>`
+        ? `<span class="verified-badge">-✅</span>`
         : "";
 
     card.innerHTML = `
