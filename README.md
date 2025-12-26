@@ -1,3 +1,6 @@
+PLEASE USE UBLOCK ORIGIN [HERE](https://ublockorigin.com/)
+
+
 (currently WIP)
 
 🌐 What This Project Does
