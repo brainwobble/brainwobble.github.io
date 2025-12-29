@@ -2,8 +2,8 @@
    BASE VARIABLES (Default)
    ========================= */
 :root {
-    --bg: #E00000;
-    --text: #000000;
+    --bg: #000000;
+    --text: #ffffff;
     --header-bg: #222;
     --header-text: #ffffff;
     --card-bg: #ffffff;
