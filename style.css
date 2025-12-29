@@ -53,6 +53,24 @@
 }
 
 /* =========================
+   THEME:RetroAchievements
+   ========================= */
+.theme-ra {
+    --bg: #1A1A1A;
+    --text: #2C97FA;
+    --header-bg: #161616;
+    --header-text: #EEEEEE;
+    --card-bg: #232323;
+    --card-shadow: rgba(255,255,255,0.05);
+    --link: #009900;
+    --tag-bg: #009900;
+    --tag-text: #000;
+    --footer-bg: #330066;
+    --footer-text: #2A2A2A;
+    --divider-color: #1A1A1A;
+}
+
+/* =========================
    THEME PICKER STYLING
    ========================= */
 #themePicker {
