@@ -1,0 +1,167 @@
+/* =========================
+   BASE VARIABLES (Default)
+   ========================= */
+:root {
+    --bg: #E00000;
+    --text: #000000;
+    --header-bg: #222;
+    --header-text: #ffffff;
+    --card-bg: #ffffff;
+    --card-shadow: rgba(0,0,0,0.1);
+    --link: #0078ff;
+    --tag-bg: #0078ff;
+    --tag-text: #ffffff;
+    --footer-bg: #222;
+    --footer-text: #ffffff;
+    --divider-color: #0078ff;
+}
+
+/* =========================
+   THEME: Dark
+   ========================= */
+.theme-dark {
+    --bg: #121212;
+    --text: #e5e5e5;
+    --header-bg: #000;
+    --header-text: #ffffff;
+    --card-bg: #1e1e1e;
+    --card-shadow: rgba(255,255,255,0.05);
+    --link: #4da3ff;
+    --tag-bg: #4da3ff;
+    --tag-text: #000;
+    --footer-bg: #000;
+    --footer-text: #ffffff;
+    --divider-color: #4da3ff;
+}
+
+/* =========================
+   THEME: Ocean
+   ========================= */
+.theme-ocean {
+    --bg: #cce7ff;
+    --text: #003355;
+    --header-bg: #005f99;
+    --header-text: #ffffff;
+    --card-bg: #ffffff;
+    --card-shadow: rgba(0,0,0,0.1);
+    --link: #005f99;
+    --tag-bg: #007acc;
+    --tag-text: #ffffff;
+    --footer-bg: #005f99;
+    --footer-text: #ffffff;
+    --divider-color: #007acc;
+}
+
+/* =========================
+   THEME: Forest
+   ========================= */
+.theme-forest {
+    --bg: #e8f5e9;
+    --text: #1b5e20;
+    --header-bg: #2e7d32;
+    --header-text: #ffffff;
+    --card-bg: #ffffff;
+    --card-shadow: rgba(0,0,0,0.1);
+    --link: #2e7d32;
+    --tag-bg: #43a047;
+    --tag-text: #ffffff;
+    --footer-bg: #2e7d32;
+    --footer-text: #ffffff;
+    --divider-color: #43a047;
+}
+
+/* =========================
+   THEME: Midnight Purple
+   ========================= */
+.theme-purple {
+    --bg: #1a002b;
+    --text: #e6ccff;
+    --header-bg: #330066;
+    --header-text: #ffffff;
+    --card-bg: #2b0040;
+    --card-shadow: rgba(255,255,255,0.05);
+    --link: #cc66ff;
+    --tag-bg: #cc66ff;
+    --tag-text: #000;
+    --footer-bg: #330066;
+    --footer-text: #ffffff;
+    --divider-color: #cc66ff;
+}
+
+/* =========================
+   APPLY VARIABLES
+   ========================= */
+
+body {
+    font-family: Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background: var(--header-bg);
+    color: var(--header-text);
+}
+
+#search {
+    margin-top: 15px;
+    padding: 10px;
+    width: 60%;
+    max-width: 400px;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+}
+
+#service-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    padding: 30px;
+}
+
+.card {
+    background: var(--card-bg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px var(--card-shadow);
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+.card a {
+    color: var(--link);
+    text-decoration: none;
+}
+
+.card .tag {
+    display: inline-block;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: var(--footer-bg);
+    color: var(--footer-text);
+    margin-top: 40px;
+}
+
+.divider {
+    margin: 40px 0 10px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid var(--divider-color);
+    color: var(--divider-color);
+    font-size: 24px;
+}
