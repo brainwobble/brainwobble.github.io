@@ -89,6 +89,32 @@
 }
 
 /* =========================
+   THEME PICKER STYLING
+   ========================= */
+#themePicker {
+    padding: 10px 14px;
+    border-radius: 6px;
+    border: 2px solid var(--divider-color);
+    background: var(--card-bg);
+    color: var(--text);
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    margin-top: 15px;
+}
+
+/* Hover effect */
+#themePicker:hover {
+    border-color: var(--link);
+}
+
+/* Focus outline */
+#themePicker:focus {
+    outline: none;
+    box-shadow: 0 0 6px var(--link);
+}
+
+/* =========================
    APPLY VARIABLES
    ========================= */
 
