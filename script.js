@@ -76,6 +76,29 @@ searchInput.addEventListener("input", () => {
     displayServices(filtered);
 });
 
+const themePicker = document.getElementById("themePicker");
+
+// Load saved theme
+const savedTheme = localStorage.getItem("site-theme");
+if (savedTheme && savedTheme !== "default") {
+    document.body.classList.add(savedTheme);
+    themePicker.value = savedTheme;
+}
+
+// Change theme
+themePicker.addEventListener("change", () => {
+    document.body.classList.remove("theme-dark", "theme-ocean", "theme-forest", "theme-purple");
+
+    const theme = themePicker.value;
+
+    if (theme !== "default") {
+        document.body.classList.add(theme);
+    }
+
+    localStorage.setItem("site-theme", theme);
+});
+
+
 // Start
 loadServices();
 
