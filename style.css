@@ -2,24 +2,6 @@
    BASE VARIABLES (Default)
    ========================= */
 :root {
-    --bg: #000000;
-    --text: #000000;
-    --header-bg: #222;
-    --header-text: #ffffff;
-    --card-bg: #ffffff;
-    --card-shadow: rgba(0,0,0,0.1);
-    --link: #0078ff;
-    --tag-bg: #0078ff;
-    --tag-text: #ffffff;
-    --footer-bg: #222;
-    --footer-text: #ffffff;
-    --divider-color: #0078ff;
-}
-
-/* =========================
-   THEME: Dark
-   ========================= */
-.theme-dark {
     --bg: #121212;
     --text: #e5e5e5;
     --header-bg: #000;
