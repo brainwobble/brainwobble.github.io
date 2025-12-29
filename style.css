@@ -35,24 +35,6 @@
 }
 
 /* =========================
-   THEME: Forest
-   ========================= */
-.theme-forest {
-    --bg: #e8f5e9;
-    --text: #1b5e20;
-    --header-bg: #2e7d32;
-    --header-text: #ffffff;
-    --card-bg: #ffffff;
-    --card-shadow: rgba(0,0,0,0.1);
-    --link: #2e7d32;
-    --tag-bg: #43a047;
-    --tag-text: #ffffff;
-    --footer-bg: #2e7d32;
-    --footer-text: #ffffff;
-    --divider-color: #43a047;
-}
-
-/* =========================
    THEME: Midnight Purple
    ========================= */
 .theme-purple {
