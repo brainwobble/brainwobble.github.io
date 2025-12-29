@@ -87,7 +87,7 @@ if (savedTheme && savedTheme !== "default") {
 
 // Change theme
 themePicker.addEventListener("change", () => {
-    document.body.classList.remove("theme-ocean", "theme-purple");
+    document.body.classList.remove("theme-ocean", "theme-purple", "theme-ra");
 
     const theme = themePicker.value;
 
