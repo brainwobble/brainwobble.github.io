@@ -7,7 +7,7 @@ PLEASE USE UBLOCK ORIGIN [HERE](https://ublockorigin.com/)
 
     Lists trustworthy free websites and services
 
-    Organizes them by category (productivity, development, privacy, learning, creative, etc.)
+    Organizes them by category (games, music, movies, tv, etc.)
 
     Provides simple JSON files for easy use in apps or scripts
 
@@ -15,7 +15,7 @@ PLEASE USE UBLOCK ORIGIN [HERE](https://ublockorigin.com/)
 
 A service must be:
 
-    Free to use (or offer a meaningful free tier)
+    Free to use (or offer a meaningful free tier(or be a "legal" service))
 
     Safe and non‑malicious
 
