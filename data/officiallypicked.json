@@ -122,21 +122,21 @@
     "name": "Vimm's Lair",
     "url": "https://vimm.net",
     "description": "ROMs for multiple consoles, ROM hacking, emulator links, and game manual archive.",
-    "tags": ["notags"],
+    "tags": ["Roms", "Emulators"],
     "verified": true
   },
   {
     "name": "Myrient Erista",
     "url": "https://myrient.erista.me/",
     "description": "Huge archive of games for every device, leaks, & more.",
-    "tags": [],
+    "tags": ["games","archive"],
     "verified": true
   },
   {
     "name": "kemono ",
     "url": "https://kemono.cr/",
     "description": "Patreon, Pixiv Fanbox, Discord, Fantina, Afdian, Boosty, Gumroad, SubscribeStar, and DLsite archive.",
-    "tags": ["patreon"],
+    "tags": ["patreon", "nsfw"],
     "verified": true
   },
 {
