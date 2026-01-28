@@ -54,7 +54,7 @@ If you need more help on how to even make pull request or how to check your json
 
 WHAT THE EMOJIS MEAN
 
-⭐ Good Resource
+⭐ Very Good Resource
 ❓ Decent Resource
 ⭐⭐⭐ Best Resource (for its category)
 ✅ A verified Resource (currently not being shown)
