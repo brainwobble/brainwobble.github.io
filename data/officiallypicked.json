@@ -166,5 +166,12 @@
     "description": "Good piracy site for online/multiplayer games.",
     "tags": ["multiplayer","steam","gaming"],
     "verified": true
-  }
+  },
+   {
+    "name": "candlecheese",
+    "url": "https://candlecheese.brainwobble.xyz",
+    "description": "Good piracy site for online/multiplayer games.",
+    "tags": ["multiplayer","steam","gaming"],
+    "verified": true
+  }   
 ]
